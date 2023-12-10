@@ -42,7 +42,7 @@ O assédio inclui: comentários verbais, escritos ou visuais (incluindo slides d
 Comportamentos inaceitáveis não serão tolerados. Ações apropriadas serão tomadas, incluindo advertência ou expulsão do evento.
 <br> <br>
 
-## Se Você Testemunha ou Está Sujeito a um Comportamento Inaceitável
+## Se Você Testemunhar ou For Vítima de um Comportamento Inaceitável
 Encorajamos a reportar imediatamente a um membro da equipe do evento. Estamos preparados para auxiliar quem se sentir inseguro ou desconfortável.
 Caso prefira, pode enviar também um e-mail para contact@awswomencommunitybrasil.com
 <br> <br>
