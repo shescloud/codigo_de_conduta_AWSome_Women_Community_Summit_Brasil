@@ -2,7 +2,7 @@
 </h1>
 <div align="center"> 
   
-![Logo](https://ug-mg.s3.us-east-2.amazonaws.com/logo-aw.png)
+![Logo](https://ug-mg.s3.us-east-2.amazonaws.com/logo-1.png)
 
 </div>
 
