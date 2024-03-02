@@ -54,3 +54,40 @@ Todos os participantes são responsáveis por aderir a este Código de Conduta, 
 
 ## Apoio e Assistência
  A equipe do evento está sempre disponível para oferecer apoio e assistência a quem precisar durante o evento.
+
+
+## Cartilha de Segurança para o AWSome Woman
+
+Bem-vindas ao AWSome Woman! Estamos empolgadas em recebê-las para um evento cheio de aprendizado, networking e inspiração. Para garantir que todas tenham uma experiência segura e proveitosa, aqui estão algumas dicas importantes:
+
+*Dicas de Saúde:*
+
+1. *Hidratação:* Mantenha-se hidratada durante todo o evento. Tenha uma garrafa de água sempre à mão e aproveite os momentos de intervalo para se reabastecer.
+
+2. *Alimentação:* Não pule as refeições! Procure fazer refeições balanceadas para manter sua energia ao longo do dia. Se possível, leve lanches saudáveis para consumir durante o evento.
+
+3. *Descanso:* É importante descansar e recarregar as energias. Aproveite os intervalos para relaxar e, se necessário, encontrar um local tranquilo para descansar um pouco.
+
+*Dicas de Segurança Física:*
+
+1. *Identificação:* Use sempre sua credencial de identificação do evento. Isso facilita a identificação como participante autorizada e auxilia na segurança do local.
+
+2. *Cuidado com seus pertences:* Mantenha seus pertences pessoais, como bolsas, carteiras e dispositivos eletrônicos, sempre próximos e sob sua supervisão. Evite deixá-los desacompanhados em locais de acesso público. O evento não se responsabilizará por perdas ou furtos.
+
+3. *Atenção aos arredores:* Esteja atenta ao ambiente ao seu redor. Se perceber algo suspeito ou sentir-se desconfortável, não hesite em procurar a equipe de voluntariado do evento.
+
+*Dicas de Aproveitamento do Evento:*
+
+1. *Networking:* Aproveite para conhecer novas pessoas e expandir sua rede de contatos. Troque experiências, compartilhe ideias e não tenha medo de iniciar uma conversa.
+
+2. *Participação ativa:* Não hesite em participar das palestras, workshops e atividades oferecidas durante o evento. Faça perguntas, compartilhe suas opiniões e aproveite ao máximo as oportunidades de aprendizado.
+
+3. *Feedback:* Sua opinião é importante! Ao final do evento, não deixe de fornecer feedback sobre sua experiência. Isso nos ajuda a melhorar e oferecer eventos cada vez mais relevantes e enriquecedores.
+
+
+
+
+
+
+
+ 
