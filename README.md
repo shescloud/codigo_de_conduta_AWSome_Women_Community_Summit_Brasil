@@ -1,6 +1,7 @@
-<h1 style="text-align: center;">AWSome Women Community Summit Brasil</h1>
-<div style="text-align: center;"> 
-  <img src="https://ug-mg.s3.us-east-2.amazonaws.com/logo-1.png" alt="Logo">
+<h1 align="center">AWSome Women Community Summit Brasil</h1>
+
+<div align="center"> 
+ <img src="logo-1.png"  width="750" height="600">
 </div>
 
 
