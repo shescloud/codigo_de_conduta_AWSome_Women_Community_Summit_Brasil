@@ -57,7 +57,7 @@ Todos os participantes são responsáveis por aderir a este Código de Conduta, 
  A equipe do evento está sempre disponível para oferecer apoio e assistência a quem precisar durante o evento.
 
 
-## Cartilha de Segurança para o AWSome Woman
+## Dicas de Segurança para o AWSome Woman
 
 Bem-vindas ao AWSome Woman! Estamos empolgadas em recebê-las para um evento cheio de aprendizado, networking e inspiração. Para garantir que todas tenham uma experiência segura e proveitosa, aqui estão algumas dicas importantes:
 
