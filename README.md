@@ -52,6 +52,7 @@ Todas as queixas serão tratadas com seriedade e investigadas de forma imparcial
 ## Responsabilidade
 Todos os participantes são responsáveis por aderir a este Código de Conduta, garantindo um ambiente positivo e enriquecedor.
 <br> <br>
+ O credenciamento e checkin é individual, único e deve ser feito somente por você própria. É proibido fazer para outra pessoa, a você deve ser responsável somente pela sua propría identificação e credenciamento. O descomprimento dessa normativa pode levar a bloqueio nos próximos eventos.
 
 ## Apoio e Assistência
  A equipe do evento está sempre disponível para oferecer apoio e assistência a quem precisar durante o evento.
